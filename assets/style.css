@@ -12,7 +12,6 @@ body{
     border: solid 2.5px #F582A7;
     border-radius: 40px;
     max-width: 900px;
-    height: 550px;
     overflow: hidden;
     height: 80vh;
     width: 80vw;
@@ -96,7 +95,6 @@ input:focus{
     border: 2px solid rgb(210, 52, 110);
     outline: none;
     background-color: #fef6f9;
-    transition: all 0.2s ease;
 }
 
 #botao-form{
@@ -104,7 +102,6 @@ input:focus{
     border: none;
     border-radius: 12px;
     padding: 8px 25px;
-    width: auto;
     color: white;
     font-weight: bold;
     font-size: 16px;
